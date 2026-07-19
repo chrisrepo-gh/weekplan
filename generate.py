@@ -91,4 +91,37 @@ def generate_activity_files():
 
         print(f"DEBUG: Generated content length: {len(activity_md)}")
     except Exception as e:
-        print(f"ERROR
+        print(f"ERROR: Parsing model output failed: {e}")
+        # Use repr() to ensure the output is safe and escaped
+        print(f"DEBUG: Raw model output (first 500 chars): {repr(response.text[:500])}")
+        sys.exit(1)
+    
+    # Write Markdown
+    with open('index.md', 'w', encoding='utf-8') as f:
+        f.write(activity_md)
+    print("DEBUG: Successfully wrote index.md")
+    
+    # Write HTML
+    html_content = f"""
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Activity List for Week {week_num} ({week_type})</title>
+    <style>
+        body {{ font-family: sans-serif; margin: 20px; }}
+        h1 {{ color: #333; }}
+        h2 {{ color: #555; }}
+    </style>
+</head>
+<body>
+{activity_html_body}
+</body>
+</html>
+"""
+    
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    print("DEBUG: Successfully wrote index.html")
+
+if __name__ == "__main__":
+    generate_activity_files()
