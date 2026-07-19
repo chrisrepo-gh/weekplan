@@ -1,11 +1,14 @@
 import datetime
 import os
-from dotenv import load_dotenv
-import google.generativeai as genai
 import sys
+import google.generativeai as genai
 
-# Load environment variables from .env
-load_dotenv()
+# Attempt to load .env, but don't fail if it's missing (e.g., in GitHub Actions)
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 # Get API key and model from environment
 api_key = os.environ.get("AI_API_KEY")
