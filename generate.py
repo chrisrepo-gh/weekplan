@@ -68,6 +68,23 @@ def generate_activity_files():
     If it is a KIDS week, please plan activities for two boys aged 8 and 11.
     If it is a SOLO week, plan activities for an adult.
     
+    Instructions for research and generation:
+    1. Research real, current events for the upcoming week for the Erlangen/Nuremberg region (secondarily Fürth).
+    2. Specific criteria:
+        - KIDS week: Activities suitable for boys aged 8 and 11 (dated events: festivals, museum programs, workshops, sports; anytime options: climbing parks, pools, museums, zoo). Check local family event calendars (frankenkids.de, erlangen.de, nuernberg.de, eventcorner.de).
+        - SOLO week: Social events for meeting new people (Meetup.com, Stammtisch, internationals/expat meetups, language cafés, new-in-town events).
+    3. Important: EXCLUDE any religious events.
+    4. Output: Produce a concise, well-organized list (5–10 items) ordered by day of the week, each with:
+       - event/activity name
+       - date and time
+       - location
+       - why it's a good fit
+       - a link
+       - flag if advance registration/tickets required.
+    5. At the top, state clearly which kind of week it is (SOLO or KIDS) and the date range.
+    6. Language: Keep everything in English.
+    7. Verify dates carefully — only include events actually happening in the upcoming week, preferring official/primary sources.
+    
     Generate the activity plan in a valid JSON format with two fields: "markdown" and "html".
     "markdown": The plan in Markdown format (use # for title, a line for date range, ## for categories, UL/LI lists for activities).
     "html": The plan as an HTML fragment (use <h1>, <p>, <h2>, <ul>/<li>).
