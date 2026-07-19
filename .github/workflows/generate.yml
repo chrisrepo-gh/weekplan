@@ -1,0 +1,31 @@
+name: Generate Weekly Activity
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Every Monday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Generate HTML
+        run: python generate.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add index.html
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update weekly activity report"
+            git push
+          fi
