@@ -2,7 +2,11 @@ import datetime
 import os
 import sys
 import json
+import warnings
 import google.generativeai as genai
+
+# Suppress FutureWarning from google.generativeai
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 # Attempt to load .env, but don't fail if it's missing (e.g., in GitHub Actions)
 try:
@@ -30,14 +34,24 @@ model = genai.GenerativeModel(
 
 
 def extract_json(text):
-    """Parse model output as JSON, tolerating ```json ... ``` code fences."""
+    """Parse model output as JSON, tolerating ```json ... ``` code fences and trailing garbage."""
     text = text.strip()
+    # 1. Handle code fences
     if text.startswith("```"):
         # Drop the opening fence line (with optional language tag)
-        text = text.split("\n", 1)[1] if "\n" in text else ""
+        parts = text.split("\n", 1)
+        if len(parts) > 1:
+            text = parts[1]
         if text.rstrip().endswith("```"):
             text = text.rstrip()[:-3]
-    return json.loads(text)
+    
+    # 2. Try to parse using raw_decode to handle potential trailing data
+    try:
+        # raw_decode returns (obj, end_index)
+        return json.JSONDecoder().raw_decode(text)[0]
+    except Exception:
+        # Fallback to standard json.loads
+        return json.loads(text)
 
 def get_upcoming_week_info():
     # Get current date
