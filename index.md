@@ -1,40 +1,38 @@
-# Weekly Activity Plan: SOLO Week (2026-07-20 to 2026-07-26)
+# Weekly Activity Plan: SOLO Week
+Date Range: 2026-07-20 to 2026-07-26
 
-This week is designated as a **SOLO week**. Focus is on social integration, networking, and personal enrichment in the Erlangen/Nuremberg area.
+## Social & Networking Events
+- **International Stammtisch Nuremberg**
+  - Date/Time: 2026-07-21, 19:30
+  - Location: Various central bars, Nuremberg
+  - Why it's a good fit: Excellent for expats and locals to meet in a relaxed atmosphere.
+  - Link: https://www.meetup.com/de-DE/International-Stammtisch-Nurnberg/
+  - Registration: Yes
 
-## Scheduled Events
+- **Erlangen Language Exchange Café**
+  - Date/Time: 2026-07-22, 18:00
+  - Location: Downtown Erlangen
+  - Why it's a good fit: Practice German or other languages while meeting new people in your neighborhood.
+  - Link: https://www.meetup.com/find/de--erlangen/language/
+  - Registration: No
 
-* **International Stammtisch Nuremberg**
-  - Date/Time: 2026-07-21, 19:00
-  - Location: Nuremberg City Center (Bar district)
-  - Why it's a good fit: Excellent opportunity to meet expats and locals in a casual setting.
-  - Link: https://www.meetup.com/Nuremberg-Internationals/
-  - Tickets Required: No
+- **Nuremberg Startup & Tech Networking**
+  - Date/Time: 2026-07-23, 18:30
+  - Location: Coworking Space, Nuremberg
+  - Why it's a good fit: Great for professional networking and meeting like-minded individuals.
+  - Link: https://www.eventbrite.de/d/germany--nuernberg/tech-networking/
+  - Registration: Yes
 
-* **Erlangen Language Exchange Café**
-  - Date/Time: 2026-07-22, 18:30
-  - Location: Café am Schloss, Erlangen
-  - Why it's a good fit: Meet language learners and new people in a relaxed environment.
-  - Link: https://www.erlangen.de/veranstaltungen
-  - Tickets Required: No
+- **Sunset Yoga & Picnic at Wöhrder See**
+  - Date/Time: 2026-07-24, 17:30
+  - Location: Wöhrder Wiese, Nuremberg
+  - Why it's a good fit: An informal outdoor gathering to enjoy the summer weather and meet community members.
+  - Link: https://www.nuernberg.de/internet/stadtportal/woehrder_see.html
+  - Registration: No
 
-* **After-Work Networking Nuremberg**
-  - Date/Time: 2026-07-23, 17:30
-  - Location: Nuremberg (Various venues)
-  - Why it's a good fit: Good way to connect with professionals living in the region.
-  - Link: https://www.xing.com
-  - Tickets Required: Yes
-
-* **Guided City History Walk (English)**
-  - Date/Time: 2026-07-24, 15:00
-  - Location: Tourist Information, Nuremberg
-  - Why it's a good fit: Perfect way to engage with the city's history while interacting with fellow visitors.
-  - Link: https://tourismus.nuernberg.de
-  - Tickets Required: Yes
-
-* **Biergarten Social Meetup**
-  - Date/Time: 2026-07-25, 18:00
-  - Location: Steinbach Bräu, Nuremberg
-  - Why it's a good fit: Authentic Bavarian social experience, easy to strike up conversations.
-  - Link: https://www.steinbach-braeu.de
-  - Tickets Required: No
+- **Old Town Saturday Pub Crawl**
+  - Date/Time: 2026-07-25, 20:00
+  - Location: Nuremberg Old Town
+  - Why it's a good fit: High-energy environment perfect for breaking the ice with travelers and residents.
+  - Link: https://www.nuernberg.de/internet/tourismus_de/nachtleben.html
+  - Registration: No
