@@ -1,32 +1,39 @@
-# SOLO Week Activity Plan: Erlangen/Nuremberg
-Date Range: 2026-08-03 to 2026-08-09
+# Kids Week: Erlangen/Nuremberg Activity Plan
+**Date Range:** 2026-08-10 to 2026-08-16
 
-## Weekly Social & Networking Events
+## Weekly Activity Schedule
 
-* **International Stammtisch Nuremberg**
-  * **Date/Time:** 2026-08-05, 19:30
-  * **Location:** Various locations in Nuremberg (usually city center)
-  * **Why it's a fit:** A great environment to meet locals and expats, practice languages, and broaden your social circle.
-  * **Link:** [https://www.meetup.com/Nuremberg-International-Meetup/](https://www.meetup.com/Nuremberg-International-Meetup/)
-  * **Registration Required:** Yes, via Meetup group.
+* **Tiergarten Nürnberg (Nuremberg Zoo)**
+  * **Date/Time:** 2026-08-10, 09:00 - 19:30
+  * **Location:** Am Tiergarten 30, Nuremberg
+  * **Why:** Perfect for boys aged 8 and 11 to explore the dolphin lagoon and manatee house. Great for a full-day outdoor adventure.
+  * **Link:** https://tiergarten.nuernberg.de
+  * **Tickets Required:** Yes
 
-* **After-Work Social Drinks at the Erlangen Biergarten**
-  * **Date/Time:** 2026-08-06, 18:00
-  * **Location:** Kitzmann Bräuschänke, Erlangen
-  * **Why it's a fit:** Classic Franconian setting ideal for casual conversation and socializing with Erlangen residents.
-  * **Link:** [https://www.kitzmann-braeueschaenke.de](https://www.kitzmann-braeueschaenke.de)
-  * **Registration Required:** No.
+* **Erlangen Indoor Climbing (Café Kraft)**
+  * **Date/Time:** 2026-08-11, 10:00 - 22:00
+  * **Location:** Gebertstraße 6, Erlangen
+  * **Why:** High-energy physical activity suitable for active boys; excellent bouldering facilities for various skill levels.
+  * **Link:** https://www.cafekraft.de
+  * **Tickets Required:** No
 
-* **Nuremberg Language Exchange Café**
-  * **Date/Time:** 2026-08-07, 19:00
-  * **Location:** Cafe Wanderer, Nuremberg
-  * **Why it's a fit:** Informal atmosphere perfect for starting conversations and learning about local events.
-  * **Link:** [https://www.cafe-wanderer.de](https://www.cafe-wanderer.de)
-  * **Registration Required:** No.
+* **Museum für Kommunikation Nuremberg**
+  * **Date/Time:** 2026-08-12, 10:00 - 18:00
+  * **Location:** Lessingstraße 6, Nuremberg
+  * **Why:** Interactive exhibitions about technology and media that engage boys in the target age range.
+  * **Link:** https://www.mfk-nuernberg.de
+  * **Tickets Required:** No
 
-* **Weekend Morning Coffee & Networking**
-  * **Date/Time:** 2026-08-08, 10:30
-  * **Location:** Café Groeten, Erlangen
-  * **Why it's a fit:** A relaxed weekend setting often frequented by people looking for casual social interaction.
-  * **Link:** [https://www.cafegroeten.de](https://www.cafegroeten.de)
-  * **Registration Required:** No.
+* **Atlantis Erlebnisbad Herzogenaurach**
+  * **Date/Time:** 2026-08-13, 10:00 - 21:00
+  * **Location:** Atlantisring 1, Herzogenaurach
+  * **Why:** Water slides and wave pools offer great fun for 8 and 11-year-olds.
+  * **Link:** https://www.atlantis-herzogenaurach.de
+  * **Tickets Required:** No
+
+* **Playmobil FunPark**
+  * **Date/Time:** 2026-08-14, 09:00 - 19:00
+  * **Location:** Brandstätterstraße 2-10, Zirndorf
+  * **Why:** World-class activity park with massive climbing structures and active play areas perfectly suited for primary/early secondary school ages.
+  * **Link:** https://www.playmobil-funpark.de
+  * **Tickets Required:** Yes
