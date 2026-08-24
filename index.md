@@ -1,38 +1,39 @@
-# Solo Week Activity Plan - Erlangen/Nuremberg
-Date Range: 2026-08-17 to 2026-08-23
+# Weekly Plan: KIDS Week
+**Date Range:** 2026-08-24 to 2026-08-30
 
-## Social and Networking Events
-- **Internations Nuremberg August Get-Together**
-  - Date: 2026-08-19, 19:00
-  - Location: Nuremberg City Center (Venue TBA)
-  - Why: Excellent for meeting expats and locals in a relaxed professional/social atmosphere.
-  - Link: https://www.internations.org
+## Scheduled Activities for Boys (8 and 11)
+
+* **Tiergarten Nürnberg (Nuremberg Zoo) Discovery**
+  - Date/Time: 2026-08-25, 09:00 - 18:00
+  - Location: Am Tiergarten 30, 90480 Nürnberg
+  - Why: One of the largest zoos in Europe with a dolphin lagoon and extensive playgrounds perfect for ages 8 and 11.
+  - Link: https://tiergarten.nuernberg.de
+  - Registration Required: No
+
+* **Erlangen Indoor Climbing (Café Kraft)**
+  - Date/Time: 2026-08-26, 14:00 - 20:00
+  - Location: Industriestraße 3, 91052 Erlangen
+  - Why: Great physical activity to burn off energy; beginner-friendly walls for both age groups.
+  - Link: https://cafekraft.de
+  - Registration Required: No
+
+* **Museum für Industriekultur Workshop**
+  - Date/Time: 2026-08-27, 10:00 - 13:00
+  - Location: Äußere Sulzbacher Str. 62, 90491 Nürnberg
+  - Why: Interactive exhibits featuring historical technology and old vehicles which appeal strongly to boys of this age.
+  - Link: https://museen.nuernberg.de/industriekultur
   - Registration Required: Yes
 
-- **Erlangen English Speakers Meetup**
-  - Date: 2026-08-20, 19:30
-  - Location: Brewpub in Erlangen (e.g., Steinbach Bräu)
-  - Why: Great informal setting to meet new people and practice language exchange.
-  - Link: https://www.meetup.com
-  - Registration Required: Recommended
+* **Wöhrder See Water Play and Boat Rental**
+  - Date/Time: 2026-08-28, 11:00 - 16:00
+  - Location: Wöhrder Wiese, 90489 Nürnberg
+  - Why: Perfect for an active afternoon renting pedal boats and exploring the shoreline.
+  - Link: https://nuernberg.de
+  - Registration Required: No
 
-- **Nuremberg Friday Night Social Board Games**
-  - Date: 2026-08-21, 18:30
-  - Location: Nuremberg Gaming Cafe
-  - Why: Fun, low-pressure way to engage with locals and international residents over tabletop games.
-  - Link: https://www.meetup.com/Nuremberg-Board-Game-Meetup
-  - Registration Required: Yes
-
-- **Outdoor Cinema - Luitpoldhain Nuremberg**
-  - Date: 2026-08-22, 20:30
-  - Location: Luitpoldhain, Nuremberg
-  - Why: A quintessential summer experience; open-air screenings are very popular and offer a communal atmosphere.
-  - Link: https://www.nuernberg.de
-  - Registration Required: Ticket purchase recommended
-
-- **Saturday Morning Market Meetup - Altstadtmarkt**
-  - Date: 2026-08-23, 10:00
-  - Location: Altstadtmarkt, Erlangen
-  - Why: Casual local activity; easy to strike up conversations with vendors or fellow coffee enthusiasts.
-  - Link: https://www.erlangen.de
+* **Franken-Therme Bad Windsheim (Saltwater pools)**
+  - Date/Time: 2026-08-29, 10:00 - 17:00
+  - Location: Erkenbrechtallee 10, 91438 Bad Windsheim
+  - Why: A fun day trip from Erlangen with varying pool depths and water slides for kids.
+  - Link: https://franken-therme.net
   - Registration Required: No
