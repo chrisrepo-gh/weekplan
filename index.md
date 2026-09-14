@@ -1,39 +1,46 @@
-# Weekly Plan: KIDS Week
-**Date Range:** 2026-09-07 to 2026-09-13
+# Weekly Schedule: SOLO Week
+Date Range: 2026-09-14 to 2026-09-20
 
-## Scheduled Activities for Boys (8 and 11)
+## Solo Social & Cultural Activities
 
-* **Nuremberg Zoo (Tiergarten Nürnberg)**
-  * Date/Time: Ongoing, 09:00 - 19:30
-  * Location: Am Tiergarten 30, 90480 Nürnberg
-  * Why it's a fit: Perfect for boys to explore the dolphin lagoon and manatee house. High engagement for ages 8 and 11.
-  * Link: https://tiergarten.nuernberg.de
-  * Ticket Required: Yes
+* **Nuremberg International Meetup**
+  * Date: 2026-09-15, 19:30
+  * Location: Altstadthof, Nuremberg
+  * Why: Great venue for meeting expats and locals in a casual setting.
+  * Link: https://www.meetup.com/Nuremberg-International-Meetup/
+  * Ticket Required: No
 
-* **Bouldering at Café Kraft**
-  * Date/Time: Anytime (Mon-Fri 09:00-23:00, Sat-Sun 09:00-21:00)
-  * Location: Gebertstraße 9, 90763 Fürth
-  * Why it's a fit: Excellent physical outlet; bouldering is popular and safe for their age group.
-  * Link: https://cafekraft.de
-  * Ticket Required: Yes
+* **Open Mic Night**
+  * Date: 2026-09-16, 20:00
+  * Location: Kofferfabrik, Fürth
+  * Why: Relaxed atmosphere ideal for solo attendees to enjoy music and chat.
+  * Link: https://kofferfabrik.cc
+  * Ticket Required: No
 
-* **Museum of Industrial Culture (Museum Industriekultur)**
-  * Date/Time: Tuesday - Friday 09:00 - 17:00, Sat - Sun 10:00 - 18:00
-  * Location: Äußere Sulzbacher Str. 62, 90491 Nürnberg
-  * Why it's a fit: The historical vehicles and interactive displays are fascinating for active boys.
-  * Link: https://museen.nuernberg.de/industriekultur
-  * Ticket Required: Yes
-
-* **Frankfurt-Erlangen Freizeitbad Atlantis**
-  * Date/Time: Daily, 10:00 - 22:00
-  * Location: Sportzentrum West, 91058 Erlangen
-  * Why it's a fit: Indoor/outdoor pool complex with slides perfect for burning energy.
-  * Link: https://www.atlantis-erlangen.de
-  * Ticket Required: Yes
-
-* **Schlossgarten Exploration & Mini Golf**
-  * Date/Time: Daily, Daylight hours
-  * Location: Schlossgarten, 91054 Erlangen
-  * Why it's a fit: Casual outdoor activity; great for a relaxed afternoon walk and some competitive mini-golf.
+* **Erlangen Language Exchange (Sprachcafé)**
+  * Date: 2026-09-17, 18:00
+  * Location: Steinbach Bräu, Erlangen
+  * Why: Perfect for networking and practicing German/English with others.
   * Link: https://www.erlangen.de
+  * Ticket Required: No
+
+* **Nuremberg City Walking Tour (English)**
+  * Date: 2026-09-18, 11:00
+  * Location: Tourist Information, Hauptmarkt, Nuremberg
+  * Why: Learn local history and meet other travelers/new residents.
+  * Link: https://tourismus.nuernberg.de
+  * Ticket Required: Yes
+
+* **Public Astronomy Viewing**
+  * Date: 2026-09-19, 21:00
+  * Location: Nürnberger Astronomische Arbeitsgemeinschaft (NAA)
+  * Why: Unique interest-based social activity for hobbyists.
+  * Link: https://www.naa.net
+  * Ticket Required: No
+
+* **Saturday Morning Market Visit**
+  * Date: 2026-09-19, 10:00
+  * Location: Schlossplatz, Erlangen
+  * Why: Experience local culture, grab coffee, and mingle with local vendors.
+  * Link: https://erlangen.de
   * Ticket Required: No
