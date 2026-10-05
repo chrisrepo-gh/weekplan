@@ -1,22 +1,33 @@
 # Project Memory: Weekplan
 
 ## Summary
-The goal of this project is to automate the generation of a weekly activity report for a family in the Erlangen/Nuremberg area, switching from a static implementation to an AI-powered one.
+Automated weekly activity plan for Fernando in the Erlangen/Nuremberg area. Alternating weeks:
+KIDS weeks (activities with his two boys) and SOLO weeks (social events to meet new people).
+Published via GitHub Pages from `index.html`.
 
-## Core Logic
-- `generate.py`: The main script that calculates the ISO week number and determines if it's a "KIDS" or "SOLO" week.
-- AI Integration: Uses the Gemini API (`gemini-3.1-flash`) via the `google-generativeai` Python library to generate structured HTML and Markdown content for the activities based on the week type.
-- Dependencies: `google-generativeai` and `python-dotenv`.
+## Core logic (`generate.py`)
+- Plans the week starting the next Monday (Sunday run -> tomorrow; Monday run -> today).
+- KIDS/SOLO comes from a fixed reference Monday in `weekplan.yaml` and a strict 14-day rhythm
+  (not ISO-week parity, which breaks in 53-week years such as 2026).
+- Children's ages are computed from `weekplan.yaml` (`age` + `age_as_of`, or exact `born: YYYY-MM`).
+- Gemini is called through the `google-genai` SDK with Google Search grounding, and returns
+  structured JSON items (name, date/null, time, location, why, url, registration, cost).
+- Python then: drops dated items outside the week, checks every link (ok / blocked / broken),
+  separates dated events from anytime options, and renders `index.md` + `index.html` itself.
+- On any failure the script exits non-zero and leaves the previous plan untouched.
+- Model: `GEMINI_MODEL` (env / GitHub secret); falls back to `gemini-flash-latest`.
+  Tries JSON mode + search first, then plain text + search (older models reject the combination).
 
 ## Configuration
-- `.env`: Contains the environment variables `AI_API_KEY` (Gemini API Key) and `GEMINI_MODEL` (e.g., `gemini-3.1-flash`).
-- GitHub Secrets: The GitHub Actions workflow relies on repository secrets `AI_API_KEY` and `GEMINI_MODEL` to run successfully in the CI/CD environment.
+- `weekplan.yaml`: location, KIDS reference Monday, children, search focus per week type, exclusions.
+- `.env` (local only, not committed): `AI_PROVIDER=gemini`, `AI_API_KEY`, `GEMINI_MODEL`.
+- GitHub secrets: `AI_API_KEY`, `GEMINI_MODEL`.
+- `PLAN_DATE=YYYY-MM-DD` (optional env) simulates the run date; `OUT_DIR` redirects output for tests.
 
 ## Workflow
-- `.github/workflows/generate.yml`: A GitHub Actions workflow that runs every Monday via cron, installs dependencies, runs `generate.py`, and commits the updated `index.html` and `index.md` to the repository.
-- GitHub Pages: Automatically deploys the updated `index.html` (and optionally `index.md`) to the live website upon any push to the main branch.
+- `.github/workflows/generate.yml`: Sundays 06:00 UTC + manual trigger; installs
+  `requirements.txt`, runs `generate.py`, commits `index.html`/`index.md` if changed.
+- `bike-tour/`: separate, hand-made trip page; not touched by the generator.
 
 ## Preferences
-- Language: English
-- Model: `gemini-3.1-flash` (or as configured in `.env`/Secrets)
-- Output: HTML and Markdown
+- Language of the plan: English. No religious events.

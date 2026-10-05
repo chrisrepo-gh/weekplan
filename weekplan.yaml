@@ -1,0 +1,36 @@
+# Settings for generate.py
+
+location: "Erlangen / Nuremberg, Germany (secondarily Fürth)"
+
+# A Monday that starts a KIDS week. Weeks then alternate strictly every 7 days
+# (KIDS, SOLO, KIDS, ...). Change this if the custody rhythm shifts.
+kids_week_reference: 2026-10-05
+
+# Ages update themselves. With 'born: YYYY-MM' the age is exact; with
+# 'age' + 'age_as_of' it goes up by one each year on the as_of date.
+children:
+  - age: 9
+    age_as_of: 2026-08-01
+    # born: YYYY-MM
+  - age: 11
+    age_as_of: 2026-08-01
+    # born: YYYY-MM
+
+kids:
+  who: "Fernando with his two boys, aged {ages}"
+  focus: >-
+    Dated events (festivals, museum programmes, workshops, sports, theatre, markets) and
+    anytime options (climbing/bouldering, pools, museums, zoo, outdoor trips).
+    Check local family calendars such as frankenkids.de, erlangen.de, nuernberg.de, fuerth.de.
+
+solo:
+  who: "Fernando, an adult on his own"
+  focus: >-
+    Social events for meeting new people: Meetup.com groups, Stammtisch, internationals/expat
+    meetups, language cafés, new-in-town events, active groups (hiking, running, bouldering).
+
+exclude:
+  - religious events
+
+min_items: 5
+max_items: 10
