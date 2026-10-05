@@ -1,39 +1,46 @@
-# Weekly Activity Plan: SOLO Week
-## Date Range: 2026-09-28 to 2026-10-04
+# Activity Plan for Fernando: KIDS Week (ISO 41)
+Date range: 2026-10-05 to 2026-10-11
 
-This week is dedicated to social engagement and networking in the Nuremberg/Erlangen metropolitan area.
+## Scheduled Activities for Boys (8 & 11)
 
-* **International Stammtisch Nuremberg**
-  * Date/Time: 2026-09-29, 19:30
-  * Location: Altstadthof, Nuremberg
-  * Why: A great way to meet locals and expats in a casual brewery setting.
-  * Link: https://www.internations.org
-  * Registration: Recommended
+* **Tiergarten Nürnberg (Nuremberg Zoo)**
+  * Date: 2026-10-06, 10:00
+  * Location: Am Tiergarten 30, Nuremberg
+  * Why: Great outdoor activity with dolphinarium and expansive play areas perfect for active boys.
+  * Link: https://tiergarten.nuernberg.de
+  * Registration: Tickets required at gate or online.
 
-* **Erlangen Language Café (Sprachcafé)**
-  * Date/Time: 2026-09-30, 18:00
-  * Location: VHS Erlangen
-  * Why: Relaxed atmosphere for practicing German or other languages with new acquaintances.
-  * Link: https://www.vhs-erlangen.de
-  * Registration: Required
+* **Turm der Sinne (Tower of the Senses)**
+  * Date: 2026-10-07, 14:00
+  * Location: Spittlertorgraben, Nuremberg
+  * Why: Interactive science center focusing on perception; ideal for ages 8-11.
+  * Link: https://www.turmdersinne.de
+  * Registration: Recommended for busy days.
 
-* **Nuremberg Board Game Meetup**
-  * Date/Time: 2026-10-01, 19:00
-  * Location: Cultural Center, Nuremberg
-  * Why: Focused activity makes it easier to strike up conversations with residents.
-  * Link: https://www.meetup.com
-  * Registration: Required
+* **Franken-Therme Bad Windsheim (Saltwater Pools)**
+  * Date: 2026-10-08, 11:00
+  * Location: Erkenbrechtallee 10, Bad Windsheim
+  * Why: Relaxing yet fun indoor/outdoor swimming experience accessible from Erlangen.
+  * Link: https://www.franken-therme.net
+  * Registration: No.
 
-* **Open Mic Night - Music & Poetry**
-  * Date/Time: 2026-10-02, 20:00
-  * Location: Kofferfabrik, Fürth
-  * Why: Vibrant venue known for being very welcoming to newcomers.
-  * Link: https://kofferfabrik.cc
-  * Registration: No
+* **Museum für Kommunikation (Nuremberg)**
+  * Date: 2026-10-09, 15:00
+  * Location: Lessingstraße 6, Nuremberg
+  * Why: Features engaging historical and technology exhibits that are interactive for pre-teens.
+  * Link: https://www.mfk-nuernberg.de
+  * Registration: No.
 
-* **Guided City Discovery Walk**
-  * Date/Time: 2026-10-03, 11:00
-  * Location: Tourist Information, Nuremberg
-  * Why: Join a group of visitors and locals for an architectural tour.
-  * Link: https://tourismus.nuernberg.de
-  * Registration: Required
+* **Boulderhalle Steinblock (Erlangen)**
+  * Date: 2026-10-10, 16:00
+  * Location: Henkestraße 91, Erlangen
+  * Why: High-energy indoor climbing challenge perfect for burning energy.
+  * Link: https://www.steinblock-erlangen.de
+  * Registration: Required for gear hire/first time.
+
+* **Playmobil FunPark (Zirndorf)**
+  * Date: 2026-10-11, 09:30
+  * Location: Brandstätterstraße 2-10, Zirndorf
+  * Why: World-class theme park focused on active play rather than just rides; perfect for this age group.
+  * Link: https://www.playmobil-funpark.de
+  * Registration: Advance online tickets mandatory.
